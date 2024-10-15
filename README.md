@@ -1,6 +1,7 @@
 <a name="readme-top"></a>
 
-# Name Repository
+# Spring Security Oauth2 Client
+
 
 > Description.
 Esta es una aplicación simple desarrollada con Spring Boot que integra OAuth2 Client con Spring Security, proporcionando autenticación segura a través de Google y GitHub. El proyecto demuestra cómo configurar proveedores OAuth2 usando application.properties, permitiendo a los usuarios iniciar sesión con sus cuentas de estas plataformas.
